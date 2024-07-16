@@ -230,7 +230,7 @@ cask "thunderbird" do
 
   livecheck do
     url :homepage
-    regex(/href=.*?thunderbird[._-]v?(\d+(?:\.\d+)+)[._-]SSL/i)
+    regex(/href=.*?thunderbird[._-]v?(\d+(?:\.\d+)+)esr[._-]SSL/i)
   end
 
   auto_updates true
