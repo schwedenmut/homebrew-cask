@@ -1,5 +1,5 @@
 cask "thunderbird" do
-  version "115.12.2"
+  version "128.0"
 
   language "af" do
     sha256 "3248453b4076d95260d2623df2f5a9defaf16753643d92448ef9bf7ca07a09cc"
